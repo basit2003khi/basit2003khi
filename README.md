@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Basit Ali</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="gif1" width="300px" src="">
+<img align="right" alt="gif1" width="300px" src="Ry6p.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basit2003khi&label=Profile%20views&color=0e75b6&style=flat" alt="basit2003khi" /> </p>
 

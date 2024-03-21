@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Basit Ali</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+![logo](https://github.com/basit2003khi/basit2003khi/blob/main/Syed%20Basit%20ALI.png)
 
 <img align="right" alt="gif1" width="300px" src="Ry6p.gif">
 
